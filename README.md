@@ -1,6 +1,6 @@
 ### Hi 👋, eu sou o Allan
 Engenheiro de computação e especialista no desenvolvimento de sistemas coorporativos.
-- 🔭 Atualmente trabalho com desenvolvimento de sistemas no [EB](https://www.eb.mil.br/).
+- 🔭 Atualmente trabalho com desenvolvimento de sistemas na [Dextra](https://www.dextra.com.br/).
 - 🌱 Tenho interesses por Metodologias Ágeis, Design Patterns, Clean Code, SOLID, TDD, Pair programing.
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=allandeyvson&theme=dark)
